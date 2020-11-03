@@ -19,7 +19,7 @@
     "require": {
         "php": "^7.0",
         "php-http/client-implementation": "^1.0",
-        "php-http/httplug": "^1.0",
+        "php-http/httplug": "^2.0",
         "monolog/monolog": "^1.23",
         "msschl/monolog-http-handler": "~0.0"
     },
